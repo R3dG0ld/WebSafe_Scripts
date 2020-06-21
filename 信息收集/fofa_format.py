@@ -4,7 +4,7 @@ import json
 
 
 Rdata="""
-fofa的api响应base64编码
+fofa的api响应base64编码，前提是fofa调用api时fields参数要为host
 """
 Rdata=Rdata.encode("utf-8")
 Ndata = base64.b64decode(Rdata)
