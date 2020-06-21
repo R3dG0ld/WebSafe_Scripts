@@ -10,3 +10,5 @@
 |序号|脚本名称|描述|
 |:---:|:---|:---|
 |1|[利用工具/dedecms/getAdminBak.py](利用工具/dedecms/getAdminBak.py)|利用Win+Appache特性跑dedecms管理密码的小脚本|
+|2|[利用工具/ThinkPHP/ThinkLogFinder.zip](利用工具/ThinkPHP/ThinkLogFinder.zip)|扫描ThinkPHP日志文件，支持多种版本。|
+
